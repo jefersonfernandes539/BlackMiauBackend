@@ -40,11 +40,6 @@ Um **template backend** moderno construído com **NestJS**, **Prisma ORM** e **S
 │   ├── chat/                # Chat em tempo real
 │   ├── client-profile/      # Perfis de clientes
 │   ├── database/            # Configuração do banco
-│   ├── musician/            # Módulo de músicos
-│   ├── rating/              # Avaliações
-│   ├── schedule/            # Agenda
-│   ├── user/                # Usuários
-│   ├── venue/               # Locais
 │   ├── main.ts              # Ponto de entrada da aplicação
 ├── .env                     # Variáveis de ambiente
 ├── .gitignore

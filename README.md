@@ -1,6 +1,6 @@
-# 🚀 TemplateNest-Backend
+# 🚀 BlackMiauBackend
 
-Um **template backend** moderno construído com **NestJS**, **Prisma ORM** e **Swagger (OpenAPI)** — pronto para iniciar projetos escaláveis, modulares e documentados.
+Um **projeto backend** moderno construído com **NestJS**, **Prisma ORM** e **Swagger (OpenAPI)** — pronto para iniciar projetos escaláveis, modulares e documentados.
 
 ---
 

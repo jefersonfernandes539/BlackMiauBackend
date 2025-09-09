@@ -25,5 +25,40 @@ Um **template backend** moderno construído com **NestJS**, **Prisma ORM** e **S
 
 ---
 
-## 📁 Estrutura do projeto
+## 📂 Estrutura do Projeto
+
+```bash
+.
+├── prisma/
+│   ├── migrations/          # Migrations do banco
+│   ├── schema.prisma        # Modelos Prisma
+│   └── seed.ts              # Script para popular o banco
+├── src/
+│   ├── app/                 # Módulo principal
+│   ├── auth/                # Autenticação (JWT, etc.)
+│   ├── booking/             # Reservas
+│   ├── chat/                # Chat em tempo real
+│   ├── client-profile/      # Perfis de clientes
+│   ├── database/            # Configuração do banco
+│   ├── musician/            # Módulo de músicos
+│   ├── rating/              # Avaliações
+│   ├── schedule/            # Agenda
+│   ├── user/                # Usuários
+│   ├── venue/               # Locais
+│   ├── main.ts              # Ponto de entrada da aplicação
+├── .env                     # Variáveis de ambiente
+├── .gitignore
+└── README.md
+
+yaml
+Copiar código
+
+---
+
+## ⚙️ Configuração
+
+### 1. Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/TemplateNest-Backend.git
+cd TemplateNest-Backend
 

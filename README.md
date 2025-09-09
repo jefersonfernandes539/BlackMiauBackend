@@ -1,6 +1,6 @@
 # 🚀 BlackMiauBackend
 
-Um **projeto backend** moderno construído com **NestJS**, **Prisma ORM** e **Swagger (OpenAPI)** — pronto para iniciar projetos escaláveis, modulares e documentados.
+Um **projeto backend** moderno construído com **NestJS**, **Prisma ORM** e **Swagger (OpenAPI)** — um projeto escalável, modular e documentado.
 
 ---
 
